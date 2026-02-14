@@ -1,6 +1,6 @@
-# Hi there, I'm Omar Hany 👋 
+# Hi there, I'm Omar Hany 👋
 
-### 🚀 Software Developer | Competitive Programmer | ITI Graduate
+### 🚀 .NET Developer | Competitive Programmer | ITI Graduate
 
 I am a passionate Software Engineer with a strong foundation in **Problem Solving** and **Backend Development**. I enjoy building scalable web applications and solving complex algorithmic challenges.
 
@@ -9,54 +9,50 @@ I am a passionate Software Engineer with a strong foundation in **Problem Solvin
 ### 🛠️ Tech Stack & Tools
 
 - **Backend:** C#, .NET Core, ASP.NET Core MVC, Web API, SignalR
-- **Database:** SQL Server (Database Design, Stored Procedures)
+- **Database:** SQL Server (Design, Stored Procedures, Backups)
 - **Frontend:** JavaScript, jQuery, HTML5, CSS3
-- **Tools & Version Control:** Git, GitHub, Azure, Unit Testing
-- **Core Science:** Data Structures, Algorithms, OOP, Solid Principles
+- **Version Control:** Git & GitHub
+- **Core:** Data Structures, Algorithms, OOP, SOLID Principles
 
 ---
 
-### 🏆 Competitive Programming & Achievements
+### 🏆 Achievements & Competitive Programming
 
-- **ECPC Finalist:** Qualified 3 times for the Egyptian Collegiate Programming Contest (ECPC) Finals.
-- **Delta Code Champs:** 3rd Place in the Delta Code Champs Problem Solving competition (ITI).
-- **Problem Solving:** Passionate about solving challenges on platforms like Codeforces and LeetCode.
+- **ECPC Finalist:** Qualified 3 times for the Egyptian Collegiate Programming Contest Finals.
+- **Delta Code Champs:** 3rd Place in the Problem Solving competition (ITI Tanta, Mansoura, Menoufia).
+- **Competitive Programming Expert:** Active participant in solving high-level algorithmic problems.
+
+---
+
+### 📊 GitHub Stats & Achievements
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=OmarHany10&theme=onedark&no-frame=true&column=4" alt="OmarHany10 Trophies" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-achievements-widgets.vercel.app/api/OmarHany10?p=sidebar" width="400"  alt="OmarHany10 Achievements" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarHany10&show_icons=true&theme=onedark&count_private=true" alt="OmarHany10 Stats" />
+</p>
 
 ---
 
 ### 🎓 Education & Training
 
-- **ITI 9-Month Program:** Professional Development Track (Intensive training on .NET technologies).
-- **University:** Graduate of Faculty of Computers and Artificial Intelligence, Benha University.
-
----
-
-### 🔭 Currently Working On
-- Enhancing my skills in **Cloud Computing** and **Microservices**.
-- Working on some open-source .NET projects.
+- **ITI 9-Month Program:** Professional Development Track (Intensive .NET Training).
+- **University:** Faculty of Computers and Artificial Intelligence, Benha University.
 
 ---
 
 ### 📫 How to reach me:
 
-- **LinkedIn:** [linkedin.com/in/omar-hany-415417248/](https://www.linkedin.com/in/omar-hany-415417248/) 
+- **LinkedIn:** [linkedin.com/in/omar-hany-415417248/](https://linkedin.com/in/omar-hany-415417248/)
 - **Email:** ohany3051@gmail.com
 
 ---
 
 ### ⚡ Fun Fact
 I can talk about **Football** or the series **Breaking Bad** for hours! ⚽🧪
-
-
-### 🏆 My GitHub Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmarHany10&column=4&theme=onedark&no-frame=true" alt="OmarHany10's GitHub Trophies" />
-</p>
-
----
-
-### 🏅 Badges
-<p align="left">
-<a href="https://github.com/OmarHany10"><img src="https://github-profile-achievements-widgets.vercel.app/api/OmarHany10?p=sidebar" width="300" /></a>
-</p>
