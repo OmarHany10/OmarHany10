@@ -40,7 +40,7 @@ I am a passionate Software Engineer with a strong foundation in **Problem Solvin
 ### 📫 How to reach me:
 
 - **LinkedIn:** [linkedin.com/in/omar-hany-415417248/](https://www.linkedin.com/in/omar-hany-415417248/) 
-- **Email:** YourEmail@example.com
+- **Email:** ohany3051@gmail.com
 
 ---
 
