@@ -48,6 +48,15 @@ I am a passionate Software Engineer with a strong foundation in **Problem Solvin
 I can talk about **Football** or the series **Breaking Bad** for hours! ⚽🧪
 
 
-### 🏆 GitHub Achievements
+### 🏆 My GitHub Achievements
 
-[![GitHub Achievements](https://github-profile-achievements-widgets.vercel.app/api/OmarHany10?p=sidebar)](https://github.com/ryo-ma/github-profile-achievements-widgets)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=OmarHany10&column=4&theme=onedark&no-frame=true" alt="OmarHany10's GitHub Trophies" />
+</p>
+
+---
+
+### 🏅 Badges
+<p align="left">
+<a href="https://github.com/OmarHany10"><img src="https://github-profile-achievements-widgets.vercel.app/api/OmarHany10?p=sidebar" width="300" /></a>
+</p>
