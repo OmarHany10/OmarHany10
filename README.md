@@ -46,3 +46,8 @@ I am a passionate Software Engineer with a strong foundation in **Problem Solvin
 
 ### ⚡ Fun Fact
 I can talk about **Football** or the series **Breaking Bad** for hours! ⚽🧪
+
+
+### 🏆 GitHub Achievements
+
+[![GitHub Achievements](https://github-profile-achievements-widgets.vercel.app/api/OmarHany10?p=sidebar)](https://github.com/ryo-ma/github-profile-achievements-widgets)
