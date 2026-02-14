@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Omar Hany 👋 
 
-<!--
-**OmarHany10/OmarHany10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Developer | Competitive Programmer | ITI Graduate
 
-Here are some ideas to get you started:
+I am a passionate Software Engineer with a strong foundation in **Problem Solving** and **Backend Development**. I enjoy building scalable web applications and solving complex algorithmic challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Backend:** C#, .NET Core, ASP.NET Core MVC, Web API, SignalR
+- **Database:** SQL Server (Database Design, Stored Procedures)
+- **Frontend:** JavaScript, jQuery, HTML5, CSS3
+- **Tools & Version Control:** Git, GitHub, Azure, Unit Testing
+- **Core Science:** Data Structures, Algorithms, OOP, Solid Principles
+
+---
+
+### 🏆 Competitive Programming & Achievements
+
+- **ECPC Finalist:** Qualified 3 times for the Egyptian Collegiate Programming Contest (ECPC) Finals.
+- **Delta Code Champs:** 3rd Place in the Delta Code Champs Problem Solving competition (ITI).
+- **Problem Solving:** Passionate about solving challenges on platforms like Codeforces and LeetCode.
+
+---
+
+### 🎓 Education & Training
+
+- **ITI 9-Month Program:** Professional Development Track (Intensive training on .NET technologies).
+- **University:** Graduate of Faculty of Computers and Artificial Intelligence, Benha University.
+
+---
+
+### 🔭 Currently Working On
+- Enhancing my skills in **Cloud Computing** and **Microservices**.
+- Working on some open-source .NET projects.
+
+---
+
+### 📫 How to reach me:
+
+- **LinkedIn:** [linkedin.com/in/omar-hany-415417248/](https://www.linkedin.com/in/omar-hany-415417248/) 
+- **Email:** YourEmail@example.com
+
+---
+
+### ⚡ Fun Fact
+I can talk about **Football** or the series **Breaking Bad** for hours! ⚽🧪
