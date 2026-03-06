@@ -24,24 +24,6 @@ I am a passionate Software Engineer with a strong foundation in **Problem Solvin
 
 ---
 
-### 📊 GitHub Stats & Achievements
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarHany10&show_icons=true&theme=dark&count_private=true" alt="OmarHany10 Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHany10&layout=compact&theme=dark" alt="OmarHany10 Top Languages" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/OmarHany10">
-    <img src="https://github-profile-achievements-widgets.vercel.app/api/OmarHany10?p=sidebar" width="400" alt="OmarHany10 Achievements" />
-  </a>
-</p>
-
----
-
 ### 🎓 Education & Training
 
 - **ITI 9-Month Program:** Professional Development Track (Intensive .NET Training).
