@@ -1,6 +1,6 @@
 # Hi there, I'm Omar Hany 👋
 
-### 🚀 SoftWare Engineer | Competitive Programmer | ITI Graduate
+### 🚀 Software Engineer | Competitive Programmer | ITI Graduate
 
 I am a passionate Software Engineer with a strong foundation in **Problem Solving** and **Backend Development**. I enjoy building scalable web applications and solving complex algorithmic challenges.
 
