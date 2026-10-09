@@ -54,8 +54,8 @@ I am a passionate Full-Stack Developer specializing in **ASP.NET Core, C#, SQL S
 
 - **LinkedIn:** [linkedin.com/in/omar-hany-415417248/](https://linkedin.com/in/omar-hany-415417248/)
 - **Email:** ohany3051@gmail.com
-- 🧐 This is [MY RESUME](https://drive.google.com/file/d/1rKenAtgXru_41wePGb5kI7cHs9KWPzIV/view).
-- 💥 You can visit [MY WEBSITE](https://omarhany10.github.io/).
+- This is [MY RESUME](https://drive.google.com/file/d/1rKenAtgXru_41wePGb5kI7cHs9KWPzIV/view).
+- You can visit [MY WEBSITE](https://omarhany10.github.io/).
 
 ---
 
